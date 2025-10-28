@@ -11,3 +11,5 @@ Enter pytest -s
 Converting C7 in base 16 to base 10 gives 199  
 Converting 103 in base 10 to base 2 gives 1100111  
 Converting 11 in base 3 to base 28 gives 4  
+### Functionality of the program:
+![flowchart](https://github.com/WTCSC/the-hexorcist-OwenVWest/blob/main/Tree.png)
